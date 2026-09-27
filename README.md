@@ -14,6 +14,6 @@ Turn contextual website feedback into tasks in the correct Bonsai project.
 2. Open `chrome://extensions` in Chrome.
 3. Enable **Developer mode**.
 4. Select **Load unpacked**.
-5. Choose the extracted folder containing `manifest.json`.
+5. Choose the extracted folder that directly contains `manifest.json` (not its parent Downloads folder).
 
 Visual Feedback for Bonsai is an independent product and is not affiliated with or endorsed by Bonsai.
